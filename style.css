@@ -1,0 +1,17 @@
+form {
+    border: 2px solid rgb(133, 183, 225);
+    padding: 40px;
+    border-radius: 15px;
+    margin-top: 45%;
+}
+.responsive-img {
+    height: 900px;
+    margin-top: 50%;
+}
+label{
+    color: rgb(152, 176, 197);
+}
+.btn{
+    background: rgb(24, 61, 94);
+    margin-top: 5%;
+}
